@@ -1,0 +1,35 @@
+CodeShield AI - End User License Agreement (EULA)
+
+Copyright (c) 2024 CodeShield AI. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. LICENSE GRANT
+   Subject to the terms of this Agreement, CodeShield AI grants you a limited,
+   non-exclusive, non-transferable license to use the Software for personal
+   or commercial development purposes.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Redistribute, sell, lease, or sublicense the Software
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or alter any proprietary notices on the Software
+   - Use the Software to develop competing products
+
+3. DATA & PRIVACY
+   - All data is stored locally on your machine
+   - No code or personal data is transmitted to external servers
+   - The Software integrates with local Git repositories only
+
+4. DISCLAIMER OF WARRANTIES
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY DAMAGES
+   ARISING FROM THE USE OF THE SOFTWARE.
+
+5. TERMINATION
+   This license terminates automatically if you violate any of its terms.
+
+For the complete EULA, visit: https://github.com/YOUR_USERNAME/codeshield-ai-license/blob/main/EULA.md
+
+Contact: support@codeshield.ai
+Website: https://codeshield.ai
